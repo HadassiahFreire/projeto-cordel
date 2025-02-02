@@ -165,7 +165,7 @@ margin: 20px;
     background-position: center left;
     background-attachment: fixed;
     transition: transform 0.3s ease-in-out; /* Suaviza a transição */
-    background-image: url(imagens/livro-grande.jpg);
+    background-image: url(/imagens/livro-grande.jpg);
     height: 500px;
     box-shadow: 5px 6px 6px #49462ea8;
 }
